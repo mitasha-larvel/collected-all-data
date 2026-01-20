@@ -1,0 +1,39 @@
+Part 1: Steps to Create CSV / JSON File
+Part 2: Steps to Use Data File in Postman
+  Open Postman
+Create a New Collection
+Add a POST request
+  Step 4: Select HTTP Method
+
+Choose POST method
+(POST is used for create data & file upload)
+  Step 5: Add API URL
+Paste API endpoint URL
+    Step 6: Add Request Body
+
+Go to Body
+Select raw
+Choose JSON
+Use variables
+Step 7: Open Collection Runner
+
+Click Runner
+
+Select your Collection
+
+Upload CSV or JSON file
+
+Click Run
+
+✅ API runs automatically for each data row
+  Part 3: Steps for File Upload API Testing
+  Step 9: Add File in form-data
+  Step 10: Send Request
+  Part 4: Data-Driven File Upload (Optional)
+Step 11: CSV for File Upload
+  Step 12: Use Variable in form-data
+  Step 13: Run Using Collection Runner
+  
+
+      
+  
